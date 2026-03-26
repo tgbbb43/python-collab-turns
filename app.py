@@ -7,5 +7,7 @@ for line in read_entries():
     print(line)
     add_entry("B: updating logic")
     
-    s
+    
     print ("pizzaddd")
+    
+    add_entry("A: second change")
